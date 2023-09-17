@@ -34,6 +34,10 @@ Color Trigger - is a simple utility program written in C# that allows you to per
 
 This program is intended for educational and experimental purposes. Be aware of the legal and ethical considerations when using automation tools in any software or game. Use responsibly and at your own risk.
 
+## Example of showing work
+
+https://github.com/DeftSolutions-dev/ColorTriggerCSharp/assets/59990384/786dcd23-dbf4-4978-b882-0dff802e0391
+
 ## Author
 
 - DesirePro
