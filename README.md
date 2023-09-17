@@ -37,5 +37,6 @@ This program is intended for educational and experimental purposes. Be aware of 
 ## Author
 
 - DesirePro
+- Discord: desirepro
 
 Feel free to customize this README with your contact information, usage guidelines, and any additional features or improvements you make to the program.
