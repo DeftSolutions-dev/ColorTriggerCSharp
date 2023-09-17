@@ -8,9 +8,13 @@ Color Trigger - is a simple utility program written in C# that allows you to per
 ## Usage
 
 1. **Threshold Setting**: When you run the program, it will prompt you to enter a threshold value (from 4 to 20). This threshold represents the maximum allowed difference in color values between two consecutive pixel checks for a change to be detected. Higher values allow for more color variation before triggering an action.
+
 2. **Bind Selection**: After setting the threshold, you'll be prompted to select a bind (X, F, LALT, Mouse3, Mouse4). This bind determines the key or mouse button that, when pressed, triggers the color change detection.
+
 3. **Running the Program**: Once configured, the program will continuously monitor for the specified key or mouse button press. When the trigger key/button is activated, the program will compare the color of the pixel at the cursor's position before and after the key/button press.
+
 4. **Color Change Detection**: If the color difference between the two pixels exceeds the threshold, the program will perform an action (left mouse button click). This can be customized to perform other actions as needed.
+
 5. **Threshold Adjustment**: You can adjust the threshold during runtime using the "UpArrow" and "DownArrow" keys. Increasing the threshold makes color changes less sensitive, while decreasing it makes them more sensitive.
 
 ## Example Key Binds
