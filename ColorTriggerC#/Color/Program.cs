@@ -14,7 +14,7 @@ class Program
 
     static async Task Main()
     {
-        Console.Title = "https://t.me/devilLucifer69 / DS: desirepro";
+        Console.Title = "https://t.me/desirepro / DS: desirepro";
         Console.WriteLine("Введите значение порога (от 4 до 20): ");
         int threshold;
         while (true)
@@ -67,7 +67,7 @@ class Program
                     Console.WriteLine(color2);
                     var simulator = new InputSimulator();
                     simulator.Mouse.LeftButtonDown();
-                    await Task.Delay(1);
+                    await Task.Delay(3);
                     simulator.Mouse.LeftButtonUp();
                 }
             } 
